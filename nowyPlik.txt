@@ -1,5 +1,5 @@
 Git smiga :D
 
-Pierwsza zmiana
+Pierwsza zmiana, edycja tej samej linijki w BRANCH i master
 
 Notatka w nowej ga³êzi
