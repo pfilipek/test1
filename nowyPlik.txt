@@ -1,3 +1,5 @@
 Git smiga :D
 
 Pierwsza zmiana
+
+Notatka w nowej ga³êzi
