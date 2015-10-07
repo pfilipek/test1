@@ -1,8 +1,0 @@
-Git smiga :D
-
-
-Pierwsza zmiana, edycja tej samej linijki w ga³êzi master i BRANCH
-
-
-Notatka w nowej ga³êzi
-
